@@ -1,0 +1,27 @@
+.sidebar {
+  background-color: #6F6AF8;
+  width: 240px;
+}
+
+.sidebar .menu-item {
+  font-size: 18px;
+}
+
+.sidebar .menu-item .icon {
+  color: #f0f0f0;
+}
+.app {
+  background: #a8d5e5;
+}
+h1 {
+  color: #165a72;
+  margin: 50px auto;
+  font-size: 40px;
+}
+.menu1 {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+h2 {
+  color: #165a72;
+}
